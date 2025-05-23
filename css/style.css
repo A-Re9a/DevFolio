@@ -510,4 +510,7 @@ footer {
     .Get-title{
         display: none;
     }
+    .sub-info{
+        display: none;
+    }
 }
